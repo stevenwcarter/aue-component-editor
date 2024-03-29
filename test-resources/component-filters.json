@@ -1,0 +1,43 @@
+[
+  {
+    "id": "main",
+    "components": ["section"]
+  },
+  {
+    "id": "columns",
+    "components": []
+  },
+  {
+    "id": "column",
+    "components": ["text", "image", "button", "title", "google-map"]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "form",
+      "columns",
+      "google-map",
+      "embed",
+      "accordion",
+      "tabs"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": ["card"]
+  },
+  {
+    "id": "accordion",
+    "components": ["accordion-item"]
+  },
+  {
+    "id": "tabs",
+    "components": ["tab-item"]
+  }
+]
